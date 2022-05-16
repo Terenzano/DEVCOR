@@ -1,0 +1,10 @@
+README.md
+setup.py
+example_package_Terenzano.egg-info/PKG-INFO
+example_package_Terenzano.egg-info/SOURCES.txt
+example_package_Terenzano.egg-info/dependency_links.txt
+example_package_Terenzano.egg-info/requires.txt
+example_package_Terenzano.egg-info/top_level.txt
+myapi_pkg/__init__.py
+myapi_pkg/myApi.py
+myapi_pkg/routerclass.py

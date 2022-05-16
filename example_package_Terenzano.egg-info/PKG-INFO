@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: example-package-Terenzano
+Version: 1.0.0
+Summary: A simple API and Router Class
+Home-page: https://github.com/Terenzano/DEVCOR
+Author: Terence Parassi
+Author-email: anaikatepa@gmail.com
+License: UNKNOWN
+Description: # CBT Nuggets Demo
+        
+        This is my test file formyAPI package
+        
+        Created by [Terence] [Parassi]
+        
+        -https://github.com/Terenzano 
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
